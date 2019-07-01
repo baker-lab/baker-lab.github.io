@@ -1,0 +1,28 @@
+# Site settings
+title: The Bakery
+email: kate.baker@liverpool.ac.uk
+description: The Baker Lab website
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "https://baker-lab.github.io" # the base hostname & protocol for your site
+
+# Homepage tiles
+tiles-source: posts # accepts "posts" or "pages"
+tiles-count: 10
+
+# Misc settings
+featured-image-source:
+
+# Social settings
+500px_url:
+facebook_url:
+github_url: https://github.com/baker-lab
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://uk.linkedin.com/in/kate-baker-9736615b
+pinterest_url:
+slack_url:
+twitter_url: https://twitter.com/ksbakes
+
+# Build settings
+markdown: kramdown
