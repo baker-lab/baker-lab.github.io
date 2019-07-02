@@ -12,7 +12,8 @@ description: Who's in the lab
 	<p class="center" style="font-weight: lighter;">The Bakery: May 2019</p>
 	<hr />
 
-	{% for post in site.posts limit:site.tiles-count %}{% if site.tiles-source == 'posts' %}
+	{% assign people = site.categories.teamMembers limit:site.tiles-count | sort: 'date'  %}
+	{% for post in people %}{% if site.tiles-source == 'posts' %}
 		<header id="{{ post.title }}">
 			<h4>{{ post.title }}<span class="image right"><img src="{{ absolute_url }}/assets/images/{{ post.image }}" alt="" /></span></h4>
 			{% if post.twitter %}<p><a href="https://twitter.com/{{ post.twitter }}" class="fa fa-twitter"> {{ post.twitter }}</a></p>{% endif %}

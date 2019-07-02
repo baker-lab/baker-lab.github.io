@@ -6,7 +6,8 @@
 			<p>Established in 2018, The Bakery currently consists of {{ site.categories.teamMembers | size }} members. Click on their names to find out more about them and the projects they currently have in the oven...</p>
 		</header>
 
-		{% for post in site.categories.teamMembers limit:site.tiles-count %}{% if site.tiles-source == 'posts' %}
+		{% assign people = site.categories.teamMembers limit:site.tiles-count | sort: 'date'  %}
+		{% for post in people %}{% if site.tiles-source == 'posts' %}
 		<section class="spotlight" onclick="location.href='{{ site.url }}/people.html#{{ post.title }}';">
 			<div class="image">{% if post.image %}<img src="{% if site.featured-image-source %}{{ post.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ post.image }}{% endif %}" alt="" />{% endif %}</div>
 			<div class="content">
