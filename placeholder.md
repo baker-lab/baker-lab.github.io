@@ -1,6 +1,6 @@
 ---
 layout: placeholder
-title: placeholder
+title: Highlighted outputs
 description: Content is coming soon...
 ---
 
