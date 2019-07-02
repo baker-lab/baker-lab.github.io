@@ -7,5 +7,6 @@ twitter: 1caiseypulford
 role: John Lennon Memorial Scholarship funded PhD student (primary supervisor Jay Hinton)
 backstory: 
 factoid: 
+home-page-blurb: John Lennon Memorial Scholarship funded PhD student
 
 ---
