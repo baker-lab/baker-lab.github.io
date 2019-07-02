@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [teamMembers,]
-title: Dr. Rebecca Bengston
+title: Dr. Rebecca Bengtsson
 image: rebecca-bengston-profile.jpg
 twitter: RJBengtsson
 role: I am a postdoctoral research associate working on genomic analyses of Shigella collected from the Global Enteric Multicentre Study (GEMS), a case control study investigating childhood diarrheal diseases at seven high-burden sites in Asia and Africa. My research interests focus on using whole genome sequencing to investigate bacterial evolution and pathogenesis, particularly to gain understanding of the processes that shape genetic diversity among bacterial population, driving disease emergence and spread. 
