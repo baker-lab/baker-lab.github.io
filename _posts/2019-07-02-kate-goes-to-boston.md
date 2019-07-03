@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [news,]
-title: Kate goes to Boston
+title: First news post!
 image: kate-baker-profile.jpg
 ---
 
