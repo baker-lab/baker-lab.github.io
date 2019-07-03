@@ -44,7 +44,7 @@ description: Some information about what we do
 
     <p>2) determine whether the microbiota played a role in AMR transmission among MSM-associated Shigella strains (using mathematical modelling of epidemiological and genomic data in collaboration with the Liverpool Centre for Mathematics in Healthcare)</p>
 
-    <p>This work is also being expanded through local collaboration with Liverpool Royal and Broadgreen Hospitals Trust to study the burden of AMR in Enterobacteriaceae among MSM (using genomics and metagenomics), and continued work with Public Health England’s National Reference laboratory on MSM-associated Shigella, to document the evolution of AMR in response to updated treatment recommendations.</p>
+    <p>This work is also being expanded through local collaboration with Liverpool Royal and Broadgreen Hospitals Trust to study the burden of AMR in Enterobacteriaceae among MSM (using genomics and metagenomics), and continued work with Public Health England’s National Reference laboratory on MSM-associated Shigella.</p>
 
     <h5>INFORMING MANAGEMENT OF SHIGELLOSIS IN RESOURCE-POOR REGIONS</h5>
 
