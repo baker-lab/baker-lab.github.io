@@ -3,7 +3,7 @@
 	<div class="inner">
 		<header class="major">
 			<h2>Meet the team</h2>
-			<p>Established in 2018, The Bakery currently consists of {{ site.categories.teamMembers | size }} members. Click on their names to find out more about them and the projects they currently have in the oven...</p>
+			<p>Established in 2016, The Bakery currently consists of {{ site.categories.teamMembers | size }} members. Click on their names to find out more about them and the projects they currently have in the oven...</p>
 		</header>
 
 		{% assign people = site.categories.teamMembers limit:site.tiles-count | sort: 'date'  %}
