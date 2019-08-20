@@ -2,7 +2,7 @@
 layout: post
 categories: [news,]
 title: Majority of the Bakery decamps to Canada
-image: malaka-defence.jpg
+image: malaka--defence.jpg
 ---
 
 And who can blame them? Lovely country, lovely people, lovely science. 
