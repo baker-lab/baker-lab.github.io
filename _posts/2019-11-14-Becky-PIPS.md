@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [news,]
-title: Becky explores (and excels!) the non-academic world
+title: Becky explores, and excels in, the non-academic world
 image: BIotechYES.jpg
 ---
 
