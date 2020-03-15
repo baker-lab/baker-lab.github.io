@@ -2,7 +2,7 @@
 layout: post
 categories: [news,]
 title: Becky explores, and excels in, the non-academic world
-image: BIotechYES.jpg
+image: BIotechYES.jpeg
 ---
 
 Becky Bennett is away from the lab completing a Professional Internship for PhD students, which runs as part of the BBSRC Doctoral Training Program between Liverpool, Newcastle, and Durham.
