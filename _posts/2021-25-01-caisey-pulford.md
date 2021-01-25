@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [teamMembers,]
-title: Caisey Pulford
+title: Dr. Caisey Pulford (Alumnus)
 image: caisey-pullford-profile.jpg
 twitter: 1caiseypulford
 role: PhD student co-supervised by Jay Hinton and Kate Baker. My research focuses on using bacterial genomics to understand an epidemic of invasive nontyphoidal Salmonella, estimated to cause 388,000 deaths a year in Africa. Whole genome sequencing is revolutionising the way in which we understand the global dissemination of disease. My ambition is to use these methods to pursue a career focused on the surveillance, evolution and epidemiology of bacterial pathogens during global epidemics.
