@@ -3,14 +3,15 @@
 	<div class="inner">
 		<header class="major">
 			<h2>Meet the team</h2>
-			<p>Established in 2018, The Bakery currently consists of {{ site.categories.teamMembers | size }} members. Click on their names to find out more about them and the projects they currently have in the oven...</p>
+			<p>Established in 2016, The Bakery currently consists of {{ site.categories.teamMembers | size }} members. Click on their names to find out more about them and the projects they currently have in the oven...</p>
 		</header>
 
-		{% for post in site.categories.teamMembers limit:site.tiles-count %}{% if site.tiles-source == 'posts' %}
-		<section class="spotlight">
+		{% assign people = site.categories.teamMembers limit:site.tiles-count | sort: 'date'  %}
+		{% for post in people %}{% if site.tiles-source == 'posts' %}
+		<section class="spotlight" onclick="location.href='{{ site.url }}/people.html#{{ post.title }}';">
 			<div class="image">{% if post.image %}<img src="{% if site.featured-image-source %}{{ post.image | prepend: site.featured-image-source | absolute_url }}{% else %}{{ "" | absolute_url }}/assets/images/{{ post.image }}{% endif %}" alt="" />{% endif %}</div>
 			<div class="content">
-				<h2><a href="{{ site.url }}/people.html#{{ post.title }}" class="link">{{ post.title }}</a></h2>
+				<h2>{{ post.title }}</h2>
 				<p>{{ post.home-page-blurb }}</p>
 			</div>
 		</section>

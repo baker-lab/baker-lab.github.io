@@ -1456,6 +1456,7 @@
 
 		a:hover {
 			border-bottom-color: transparent;
+			color: #fff;
 		}
 
 	strong, b {
@@ -2495,23 +2496,24 @@
 		display: flex;
 		margin-left: 5%;
 		margin-right: 5%;
+		cursor: pointer;
 	}
 
-		.spotlight .image {
-			-moz-order: 1;
-			-webkit-order: 1;
-			-ms-order: 1;
-			order: 1;
-			border-radius: 0;
-			width: 20%;
-		}
+	.spotlight .image {
+		-moz-order: 1;
+		-webkit-order: 1;
+		-ms-order: 1;
+		order: 1;
+		border-radius: 0;
+		width: 20%;
+	}
 
-			.spotlight .image img {
-				border-radius: 0;
-				width: 100%;
-			}
+	.spotlight .image img {
+		border-radius: 0;
+		width: 100%;
+	}
 
-		.spotlight .content {
+	.spotlight .content {
 			padding: 2em 4em 0.1em 4em ;
 			-moz-order: 2;
 			-webkit-order: 2;
@@ -2519,14 +2521,22 @@
 			order: 2;
 			max-width: 48em;
 			width: 60%;
-		}
+	}
 
-		.spotlight:nth-child(2n) {
+	.spotlight p {
+		font-size: 70%;
+	}
+
+	.spotlight:nth-child(2n) {
 			-moz-flex-direction: row-reverse;
 			-webkit-flex-direction: row-reverse;
 			-ms-flex-direction: row-reverse;
 			flex-direction: row-reverse;
-		}
+	}
+
+	.spotlight:nth-child(n):hover { 
+		background-color: #21b2a6;
+	}
 
 		.spotlight:nth-child(1) {
 			background-color: rgba(0, 0, 0, 0.075);
