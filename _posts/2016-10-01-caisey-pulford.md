@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [teamMembers,]
+categories: [alumni,]
 title: Dr. Caisey Pulford (Alumnus)
 image: caisey-pullford-profile.jpg
 twitter: 1caiseypulford
