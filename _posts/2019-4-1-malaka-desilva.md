@@ -1,7 +1,7 @@
 ---
 layout: post
 categories: [teamMembers,]
-title: Malaka De Silva
+title: Dr. Malaka De Silva
 image: malaka-de-silva-profile.jpg
 twitter: MalakaDeS
 role: I am investigating the role played by plasmid pKSR100 in driving Shigella epidemics. I am also working on deciphering plasmid dynamics of pKSR100 between different Shigella species as well as other enteric bacteria.
