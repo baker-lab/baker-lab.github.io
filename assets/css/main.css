@@ -1961,7 +1961,7 @@
 		}
 
 		.image.left, .image.right {
-			max-width: 40%;
+			max-width: 180px;
 		}
 
 			.image.left img, .image.right img {
