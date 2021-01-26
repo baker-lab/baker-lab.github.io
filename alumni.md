@@ -18,11 +18,11 @@ description: Who's come through the lab?
 			<h4>{{ post.title }}<span class="image right"><img src="{{ absolute_url }}/assets/images/{{ post.image }}" alt="" /></span></h4>
 			{% if post.twitter %}<p><a href="https://twitter.com/{{ post.twitter }}" class="fa fa-twitter"> {{ post.twitter }}</a></p>{% endif %}
 		</header>
-		<h5>ROLE</h5>
-		<p>{{ post.backstory }}</p>
 		<h5>BACKSTORY</h5>
+		<p>{{ post.backstory }}</p>
+		<h5>EXPERIENCE IN THE BAKERY</h5>
 		<p>{{ post.experience }}</p>
-		<h5>RANDOM FACT</h5>
+		<h5>NEXT STEPS</h5>
 		<p>{{ post.nextsteps }}</p>
 		<hr />
 	{% endif %}
