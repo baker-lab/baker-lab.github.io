@@ -23,7 +23,11 @@ description: Our funding sources
 		</li>
 		<li>
 			<h5>The Biotechnology and Biological Resources Council</h5>
-			<p>Kate (PI) and Malaka (Researcher CoI) hold a BBSRC Research Grant to study the convergent evolution of <i>Enterobacteriaceae</i> in high antimicrobial use environments. Becky J Bennett is also funded through a BBSRC NLD Doctoral Training Partnership studentship. Kate is also a CoI on a BBSRC funded grant held by Alistair Darby. </p>
+			<p>Kate (PI) and Malaka (Researcher CoI) hold a BBSRC Research Grant to study the convergent evolution of <i>Enterobacteriaceae</i> in high antimicrobial use environments. Becky J Bennett is also funded through a BBSRC NLD Doctoral Training Partnership studentship. Kate is also a CoI on a BBSRC ALERT equipment grant held by Alistair Darby. </p>
+		</li>
+		<li>
+			<h5>National Institutes for Health Research</h5>
+			p>Kate is a co-investigator on the NIHR funded Health Protection Research Unit on Gastrointestinal Diseases held between the Universities of Liverpool and Warwick and Public Health England. </p>
 		</li>
 		<li>
 			<h5>Bill and Melinda Gates Foundation</h5>
