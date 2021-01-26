@@ -27,7 +27,7 @@ description: Our funding sources
 		</li>
 		<li>
 			<h5>National Institutes for Health Research</h5>
-			p>Kate is a co-investigator on the NIHR funded Health Protection Research Unit on Gastrointestinal Diseases held between the Universities of Liverpool and Warwick and Public Health England. </p>
+			<p>Kate is a co-investigator on the NIHR funded Health Protection Research Unit on Gastrointestinal Diseases held between the Universities of Liverpool and Warwick and Public Health England. </p>
 		</li>
 		<li>
 			<h5>Bill and Melinda Gates Foundation</h5>
