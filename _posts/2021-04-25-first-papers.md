@@ -5,7 +5,7 @@ title: First lab-led primary analysis papers come out
 image: mugs.jpg
 ---
 
-We were superexcited to have our first lab funded and led primary analysis papers out (on _Shigella_ of course!) 
+We are superexcited to have our first lab funded and led primary analysis papers out (on _Shigella_ of course!) 
 
 Becky Bengtsson led supercool analyses looking at the changes in the accessory genome and structural variation that occurred over the course of persistent infections among men who have sex with men and contrasted these with incidences of reinfection. We saw the acquisition of antimicrobial resistance determinants and specific functional signatures for those regions that varied. We also generated a high quality reference genome and biobanked isolate of the clinically important serotype _S. flexneri_ 3a. 
 
