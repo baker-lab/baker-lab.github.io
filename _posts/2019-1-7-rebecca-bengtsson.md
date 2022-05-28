@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [teamMembers,]
+categories: [alumni,]
 title: Dr. Rebecca Bengtsson
 image: rebecca-bengston-profile.jpg
 twitter: RJBengtsson
