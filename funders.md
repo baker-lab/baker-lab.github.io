@@ -6,16 +6,16 @@ description: Our funding sources
 
 <section>
 	<h4>Funders</h4>
-	<p>We are grateful to receive funding from the following sources, which reflects the applied and interdisciplinary nature of our research:</p>
+	<p>We are grateful to receive/have received funding from the following sources, which reflects the applied and interdisciplinary nature of our research:</p>
 
 	<ul>
 		<li>
-			<h5>The Wellcome Trust</h5>
-			<p>Kate holds a Clinical Research Career Development Fellowship to look at how the genetic context of AMR impacts its transmission among bacterial populations. I have also been fortunate to receive Wellcome Trust funding indirectly through the University of Liverpool Institutional Stimulus Support Fund and through the AMS Springboard award.</p>
+			<h5>Wellcome</h5>
+			<p>Kate moved to the University of Liverpool with a Clinical Research Career Development Fellowship to look at how the genetic context of AMR impacts its transmission among bacterial populations. She has also been fortunate to receive Wellcome Trust funding indirectly through the University of Liverpool Institutional Stimulus Support Fund and through the Academy of Mecial Sciences Springboard award. Kate is also a co-director on the Liverpool Clinical PhD program for Global Health Priorities in the Global South.</p>
 		</li>
 		<li>
 			<h5>The Academy of Medical Sciences</h5>
-			<p>Kate holds a Springboard award from the Academy of Medical Sciences to study multispecies models of AMR transmission.</p>
+			<p>Kate held a Springboard award from the Academy of Medical Sciences to study multispecies models of AMR transmission. This award funded the beginning of her wet laboratory work.</p>
 		</li>
 		<li>
 			<h5>The Medical Research Council (UKRI)</h5>
@@ -39,7 +39,7 @@ description: Our funding sources
 		</li>
 		<li>
 			<h5>Economics and Social Research Council (UKRI)</h5>
-			<p>Kate is a co-investigator on a GCRF Newton fund project to look at the diseemination of AMR across poultry flocks in India, on which Nicola Williams is the Principal Investigator.</p>
+			<p>Kate is a co-investigator on a Grand Challenges Research-Newton Fund project to look at the diseemination of AMR across poultry flocks in India, on which Nicola Williams is the Principal Investigator.</p>
 		</li>
 	</ul>
 
