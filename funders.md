@@ -22,7 +22,7 @@ description: Our funding sources
 			<p>Kate holds a New Investigator Research Grant to work on analysing large genomic datasets of shigellae from lower and middle income nations to draw out implications for treatment and management. George Stenhouse’s PhD studentship is also funded through the MRC-funded Discovery Medicine North Doctoral Training Partnership.</p>
 		</li>
 		<li>
-			<h5>The Biotechnology and Biological Resources Council</h5>
+			<h5>The Biotechnology and Biological Resources Council (UKRI) </h5>
 			<p>Kate (PI) and Malaka (Researcher CoI) hold a BBSRC Research Grant to study the convergent evolution of <i>Enterobacteriaceae</i> in high antimicrobial use environments. Becky J Bennett is also funded through a BBSRC NLD Doctoral Training Partnership studentship. Kate is also a CoI on a BBSRC ALERT equipment grant held by Alistair Darby. </p>
 		</li>
 		<li>
@@ -34,7 +34,7 @@ description: Our funding sources
 			<p>Kate is a co-investigator on the BMGF funded enterics for global health shigellae surveillance project in Malawi held by Nigel Cunliffe, Khuzwayo Jere, and Jennifer Cornick. </p>
 		</li>
 		<li>
-			<h5>Engineering and Physical Sciences Research Council</h5>
+			<h5>Engineering and Physical Sciences Research Council (UKRI) </h5>
 			<p> Kate is a co-investigator on a cross-faculty EPSRC funded research grant looking at the evolution of AMR across networks, with Kieran Sharkey (PI) and Karan Pattni (Research CoI) at the Department of Mathematical Sciences. </p>
 		</li>
 		<li>
