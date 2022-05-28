@@ -11,7 +11,7 @@ description: Our funding sources
 	<ul>
 		<li>
 			<h5>Wellcome</h5>
-			<p>Kate moved to the University of Liverpool with a Clinical Research Career Development Fellowship to look at how the genetic context of AMR impacts its transmission among bacterial populations. She has also been fortunate to receive Wellcome Trust funding indirectly through the University of Liverpool Institutional Stimulus Support Fund and through the Academy of Mecial Sciences Springboard award. Kate is also a co-director on the Liverpool Clinical PhD program for Global Health Priorities in the Global South.</p>
+			<p>Kate moved to the University of Liverpool with a Clinical Research Career Development Fellowship to look at how the genetic context of AMR impacts its transmission among bacterial populations. She has also been fortunate to receive Wellcome Trust funding indirectly through the University of Liverpool Institutional Stimulus Support Fund and through the Academy of Medical Sciences Springboard award. Kate is also a co-director on the Liverpool Clinical PhD program for Global Health Priorities in the Global South.</p>
 		</li>
 		<li>
 			<h5>The Academy of Medical Sciences</h5>
