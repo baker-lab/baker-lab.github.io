@@ -9,7 +9,7 @@ description: Who's in the lab
 	<p>Established in 2016, the Bakery currently consists of {{ site.categories.teamMembers | size }} members. Scroll on down to find out more about them and what they work on.</p>
 	<hr />
 	<img class="center" style="width: 50%;" src="{{ absolute_url }}/assets/images/baker-lab-2019.jpg" alt="" />
-	<p class="center" style="font-weight: lighter;">The Bakery: May 2019</p>
+	<p class="center" style="font-weight: lighter;">The Bakery: May 2022</p>
 	<hr />
 
 	{% assign people = site.categories.teamMembers | sort: 'date'  %}
